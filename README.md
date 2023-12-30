@@ -9,6 +9,7 @@ There are 6 Variants:
 - URBIFS - with a filament sensor
 - URBIFS-PC4 - with a filament sensor, and a thread to install a PC4-M6 fitting
 - URBI-SFS2 - For the [BTT SFS V2.0](https://github.com/bigtreetech/smart-filament-detection-module/)
+- URBI-SFS2-Rotatable - A variant that allows reverse mounting of the BTT SFS V2.0, might help with filament getting stuck in the module when feeding.
 
 Filament sensor variants require a microswitch and 6x3mm magnet.
 
